@@ -1,5 +1,7 @@
 # Node Hessian Proxy
 
+fix chinese grabled bugs!
+
 RPC Proxy support hessian 2.0 protocol, with fully tested via test service in [http://hessian.caucho.com/test/test2](http://hessian.caucho.com/test/test2)
 
 
@@ -10,7 +12,7 @@ I couldn't not find a stable hessian 1.0 protocol test service. so 1.0 is not fu
 
 ## Installation
 
-    npm install hessian-proxy
+    npm install hessian-proxy-garbled
 
 ## Usage
 

@@ -1,6 +1,6 @@
 {
-    "name": "hessian-proxy",
-    "version": "0.0.5",
+    "name": "hessian-proxy-garbled",
+    "version": "0.1.0",
     "description": "hessian proxy to make rpc calls for javascript",
     "main": "./lib/index.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:villadora/node-hessian.git"
+        "url": "git@github.com:d925529/node-buffer-reader.git"
     },
     "keywords": [
         "hessian",
@@ -18,7 +18,7 @@
     ],
     "dependencies": {
         "buffer-builder": "~0.1.0",
-        "buffer-reader": "~0.0.2",
+        "buffer-reader-grabled": "~0.1.1",
         "long": "~1.1.2"
     },
     "devDependencies": {
@@ -33,9 +33,6 @@
         "grunt-contrib-watch": "0.3.x"
     },
     "readmeFilename": "README.md",
-    "author": {
-        "name": "wei.gao",
-        "email": "jky239@gmail.com"
-    },
+    "author": "ccsharp",
     "license": "BSD"
 }
